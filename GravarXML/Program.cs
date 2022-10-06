@@ -7,7 +7,7 @@ internal class Program
     private static void Main(string[] args)
     {
         // Sistema que cria uma lista de alunos em um arquivo XML
-
+        string texto = "Ola Mundo";
         string arquivo = @"F:\2_AMS\Programmer's\Manipulacao_Arquivos\Manipulacao_XML\jeferson\GravarXML\xml\teste.xml"; //Variável com caminho do arquivo.
         int contador = 0;
 
