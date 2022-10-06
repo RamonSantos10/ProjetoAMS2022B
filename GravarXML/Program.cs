@@ -52,6 +52,9 @@ internal class Program
         Console.WriteLine(); //Pular Linha
 
         Console.WriteLine("Itens inseridos com sucesso!");
+        
+        Console.WriteLine("Hello world");
+        Console.WriteLine("To com sono");
     }
 }
         
